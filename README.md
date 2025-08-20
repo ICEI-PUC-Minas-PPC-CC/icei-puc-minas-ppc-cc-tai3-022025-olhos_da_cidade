@@ -24,8 +24,8 @@ Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes e
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 - Lean Canvas (imagem ou link)  
 - Missão:  Acelerar o reconhecimento de problemas da cidade para a prefeitura
-- Visão:  
-- Valores:  
+- Visão:  Investimento da prefeitura e resolução de problemáticas dos moradores
+- Valores:  Sustentabilidade, inovação e foco em resultados
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - Custos fixos:  
