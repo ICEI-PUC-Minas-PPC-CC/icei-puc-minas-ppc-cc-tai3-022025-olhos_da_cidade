@@ -7,23 +7,23 @@ Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes e
 
 ## 👥 Integrantes
 
-- Nome 1 – RA: XXXXXXXX  
-- Nome 2 – RA: XXXXXXXX  
-- Nome 3 – RA: XXXXXXXX  
+- Matheus Brunheroto – RA: 804791  
+- Bruno Albarez Dias Barbosa – RA: 804580
+- Ana Leticia Sandy do Prado – RA: 803009  
 
 ---
 
 ## 🧭 Etapas do Projeto
 
 ### 1️⃣ Definição do Problema e da Solução
-- **Problema identificado:**  
-- **Público-alvo:**  
-- **Impacto esperado:**  
-- **Solução proposta:**  
+- **Problema identificado:** Falta de fiscalização de demandas dos bairros da cidade (condições do asfalto, buracos nas ruas, terrenos baldios, iluminação, arborização e jardins, etc...)
+- **Público-alvo:** Moradores da cidade 
+- **Impacto esperado:** Aproximar mais a prefeitura dos problemas dos cidadãos
+- **Solução proposta:** Uma câmera utilizando um programa(YOLO) para identificar e reconhecer problemas nos bairros
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 - Lean Canvas (imagem ou link)  
-- Missão:  
+- Missão:  Acelerar o reconhecimento de problemas da cidade para a prefeitura
 - Visão:  
 - Valores:  
 
