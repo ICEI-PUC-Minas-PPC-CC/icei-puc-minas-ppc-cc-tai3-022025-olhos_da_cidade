@@ -1,4 +1,4 @@
-# 📌 Nome do Projeto
+# 📌 Olhos da Cidade
 
 Breve descrição do problema identificado e da solução proposta.  
 Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes etc.
