@@ -1,7 +1,7 @@
 # 📌 Olhos da Cidade
 
-Breve descrição do problema identificado e da solução proposta.  
-Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes etc.
+As cidades sofrem com problemas de infraestrutura, segurança e higiene urbana, como: buracos no asfalto, calçadas danificadas, iluminação precária, terrenos baldios, trânsito desordenado e falta de fiscalização em obras. A resposta do poder público costuma ser lenta pela falta de dados atualizados.
+Uma possível solução seria um aplicativo móvel para registrar, mapear e enviar informações urbanas em tempo real. Técnicos em campo coletam dados (com GPS e fotos), que são enviados a uma central de monitoramento, gerando relatórios, mapas e estatísticas para cada setor responsável.
 
 ---
 
@@ -28,25 +28,25 @@ Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes e
 - Valores:  Sustentabilidade, inovação e foco em resultados
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
-- Custos fixos:  
-- Custos variáveis:  
+- Custos fixos: Hospedagem em nuvem (servidores, banco de dados e processamento YOLO); ferramentas auxiliares; manutenção da aplicação
+- Custos variáveis: Manutenção de câmeras; consumo de dados móveis para transmissão; escalabilidade em nuvem
 - Tributos aplicáveis:  
 
 ### 4️⃣ Investimentos e Precificação
-- Investimento inicial:  
-- Estratégia de precificação:  
-- Justificativa:  
+- Investimento inicial: Desenvolvimeno do aplicativo (mobile desktop + backend); compra de câmeras compatíveis com YOLO
+- Estratégia de precificação: Precificação escolonada pelo porte da cidade (número de habitantes ou quilômetros de ruas monitoradas)
+- Justificativa: O sistema agrega valor por automatizar a detecção de problemas urbanos (via YOLO, reduzindo custos de vistoria manual, acelerando decisões. A precificação deve refletir o retorno em economia operacial e efiência administrativa para a cidade
 
 ### 5️⃣ SWOT (Análise de Ambientes)
-- Forças:  
-- Fraquezas:  
-- Oportunidades:  
-- Ameaças:  
+- Forças: Uso do YOLO para identificação automática de problemas urbanas; redução de custos de fiscalização
+- Fraquezas: Dependência de infraestrutura tecnológica (internet, servidores, câmeras de qualidade)
+- Oportunidades: Crescente demanda por cidades inteligentes; parceiria com a prefeitura da cidade e órgãos de segurança; expansão para análise de mobilidade urbana, segurança e obras públicas; possibilidade de integrar com sistemas de denúncia cidadã e participação popular 
+- Ameaças: Resistência de gestores públicos à adoçao de novas tecnologias; risco de falhas técnicas; concorrência de soluções mais simples (aplicativo de denúncia manual; mudanças legais/tributárias que afetem a prestação de serviços tecnológicos ao setor público
 
 ### 6️⃣ Planejamento Estratégico (BSC)
-- Objetivos estratégicos:  
-- Indicadores e metas:  
-- Ações planejadas:  
+- Objetivos estratégicos: Melhorar a eficiência da fiscalização urbana por meio de IA e geolocalização; reduzir custos e tempo de resposta às demandas da cidade; aumentar a transparência e a integração entre poder público e cidadãos; expandir o sistema para diferentes áreas da gestão urbana (mobilidade, segurança, obras)
+- Indicadores e metas: Porcentaem de problemas urbanos identificados automaticamente; tempo médio de resposta das secretarias responsáveis; número de ocorrências mapeadas por mês; taxa de satisfação dos gestores municipais
+- Ações planejadas: Desenvolver e validar o aplicativo; implementar em caminhões da coleta de lixo em um bairro/cidade média para ajustes; estabelecer parcerias com prefeituras e órgãos públicos; investir em melhorias contínuas do modelo YOLO para diferentes condições ambientais.
 
 ### 7️⃣ Fluxo de Caixa
 - Planilha ou print do fluxo projetado:  
