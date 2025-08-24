@@ -57,8 +57,8 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 - Valor estimado: de R$1,500 à R$2,000
 
 ### 9️⃣ Segurança Cibernética
-- Riscos identificados:  
-- Medidas de segurança:  
+- Riscos identificados: Vulnerabilidades em dispositivos IoT; vazamento de dados sensíveis (imagens, localização, relatórios de segurança pública); 
+- Medidas de segurança: Armazenamento seguro em nuvem; monitoramento contínuo de rede e detecção de intrusos;
 
 ---
 
