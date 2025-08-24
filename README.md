@@ -53,8 +53,8 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 - Principais considerações:  
 
 ### 8️⃣ Valuation
-- Método utilizado:  
-- Valor estimado:  
+- Método utilizado: Smart Cities que oferecem soluções de monitoramento urbano, visão computacional e gestão pública. 
+- Valor estimado: de R$1,500 à R$2,000
 
 ### 9️⃣ Segurança Cibernética
 - Riscos identificados:  
