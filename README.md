@@ -22,7 +22,7 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 - **Solução proposta:** Uma câmera utilizando um programa(YOLO) para identificar e reconhecer problemas nos bairros
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
-- <img src="/docs/leanInicial.png">
+<img src="/docs/leanInicial.png" width="500">
 - Missão:  Acelerar o reconhecimento de problemas da cidade para a prefeitura
 - Visão:  Investimento da prefeitura e resolução de problemáticas dos moradores
 - Valores:  Sustentabilidade, inovação e foco em resultados
