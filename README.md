@@ -9,6 +9,7 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 
 - Matheus Brunheroto – RA: 804791  
 - Bruno Albarez Dias Barbosa – RA: 804580
+- Leonardo Bonilha Lima - RA: 770404
 - Ana Leticia Sandy do Prado – RA: 803009  
 
 ---
