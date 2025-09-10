@@ -68,7 +68,7 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 | Data       | Conteúdo/Etapa                     | Status     | Observações |
 |------------|------------------------------------|------------|-------------|
 | 06/08/2025 | Apresentação Disciplina + Start    | ✅ Concluído | — |
-| 13/08/2025 | Definição dos Grupos e Propostas   | 🚧 Em andamento | Ajustar proposta com feedback do professor |
+| 13/08/2025 | Definição dos Grupos e Propostas   | ✅ Concluído | Ajustar proposta com feedback do professor |
 
 ---
 
@@ -76,8 +76,8 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 
 | Entrega                                | Data       | Descrição                                                         | Status |
 |----------------------------------------|------------|-------------------------------------------------------------------|--------|
-| Lean Canvas                            | 20/08/2025 | Documento e imagem do canvas                                      | —      |
-| Custos e Tributos                      | 27/08/2025 | Planilha com custos fixos, variáveis e tributos                   | —      |
+| Lean Canvas                            | 20/08/2025 | Documento e imagem do canvas                                      |✅|
+| Custos e Tributos                      | 27/08/2025 | Planilha com custos fixos, variáveis e tributos                   |✅|
 | Análise SWOT / Plano de Negócios       | 24/09/2025 | Análise de ambientes SWOT e entrega do Plano de Negócios          | —      |
 | Fluxo de Caixa / Planejamento Estratégico | 15/10/2025 | Planilha de fluxo de caixa e entrega do Planejamento Estratégico  | —      |
 | Valuation                              | 05/11/2025 | Relatório com cálculo de valuation                                | —      |
