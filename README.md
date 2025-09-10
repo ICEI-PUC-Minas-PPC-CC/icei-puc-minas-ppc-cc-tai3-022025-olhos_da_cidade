@@ -23,20 +23,19 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 - **Solução proposta:** Uma câmera utilizando um programa(YOLO) para identificar e reconhecer problemas nos bairros
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
-<img src="/docs/leanInicial.png" width="500">
+<img src="/docs/lean_canvas.png" width="500">
 - Missão:  Acelerar o reconhecimento de problemas da cidade para a prefeitura
 - Visão:  Investimento da prefeitura e resolução de problemáticas dos moradores
 - Valores:  Sustentabilidade, inovação e foco em resultados
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
-- Custos fixos: Hospedagem em nuvem (servidores, banco de dados e processamento YOLO); ferramentas auxiliares; manutenção da aplicação
-- Custos variáveis: Manutenção de câmeras; consumo de dados móveis para transmissão; escalabilidade em nuvem
-- Tributos aplicáveis:  
+- [Link PNBOX](https://pnbox.sebrae.com.br/planoNegocio/invite/OO1DzP_-4)
+- [Custos e Despesas](./docs/custos_estudo.md)
 
 ### 4️⃣ Investimentos e Precificação
-- Investimento inicial: Desenvolvimeno do aplicativo (mobile desktop + backend); compra de câmeras compatíveis com YOLO
-- Estratégia de precificação: Precificação escolonada pelo porte da cidade (número de habitantes ou quilômetros de ruas monitoradas)
-- Justificativa: O sistema agrega valor por automatizar a detecção de problemas urbanos (via YOLO, reduzindo custos de vistoria manual, acelerando decisões. A precificação deve refletir o retorno em economia operacial e efiência administrativa para a cidade
+- Investimento inicial: Desenvolvimento do protótipo, cerca de R$480 (Raspberry + camera + GPS + Wifi + modelo 3D para suporte).
+- Estratégia de precificação: Precificação baseada no custo de produção e mão de obra do equipamento
+- Justificativa: O sistema agrega valor por automatizar a detecção de problemas urbanos (via YOLO), reduzindo custos de vistoria manual, acelerando decisões. A precificação deve refletir o retorno em economia operacial e efiência administrativa para a cidade
 
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças: Uso do YOLO para identificação automática de problemas urbanas; redução de custos de fiscalização
