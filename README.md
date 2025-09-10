@@ -31,6 +31,7 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - [Link PNBOX](https://pnbox.sebrae.com.br/planoNegocio/invite/OO1DzP_-4)
 - [Custos e Despesas](./docs/custos_estudo.md)
+<img width="857" height="283" alt="image" src="https://github.com/user-attachments/assets/37640a07-c299-47d5-9788-482dbc3df347" />
 
 ### 4️⃣ Investimentos e Precificação
 - Investimento inicial: Desenvolvimento do protótipo, cerca de R$480 (Raspberry + camera + GPS + Wifi + modelo 3D para suporte).
