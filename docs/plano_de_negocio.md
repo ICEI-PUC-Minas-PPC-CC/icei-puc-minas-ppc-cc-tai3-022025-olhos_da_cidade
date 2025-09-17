@@ -33,20 +33,13 @@ Não previsto no momento.
 
 ## Capital de Giro  
 
-| Item                      | Estimativa (R$) | Premissas                                |
-|---------------------------|-----------------|------------------------------------------|
-| Manutenção de Servidores  | R$30/mês (mínimo) | Infraestrutura recorrente. |
-| Reposição de Componentes  | Variável        | Dependente da demanda de produção. |
-| Custos Operacionais Diversos | A definir    | Energia, internet, fornecedores, impostos. |
+Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
 
 ---
 
 # 💵 Precificação
 
-## Valor Entregue  
-- Redução de tempo e custos para o cliente.  
-- Maior eficiência no controle de recursos.  
-- Diferencial competitivo frente a soluções manuais.  
+**Valor Entregue:** sistema agrega valor ao automatizar a detecção de problemas urbanos, reduzindo custos com vistoria manual e acelerando decisões. Preço reflete economia operacional e eficiência administrativa para a prefeitura.
 
 **Capacidade de Pagamento:** ter a prefeitura como público-alvo torna difícil estimar a capacidade de pagamento.  
 
@@ -54,11 +47,9 @@ Não previsto no momento.
 
 **Modelo de Precificação:** plano único.  
 
-## Periodicidade  
-- Cobrança mensal recomendada.  
-- Alternativas: trimestral ou anual com desconto para fidelização.  
+**Periodicidade:** não tem, inclusa no preço do produto. 
 
-## Métricas  
+**Métricas:**  
 - **CAC (Custo de Aquisição de Cliente):** não tem, não é necessário atrair via marketing.  
 - **ARPU (Receita Média por Usuário):** considerando cada produto como um usuário, entre R$1000,00 e R$1500,00.
 - **LTV (Lifetime Value):** como se trata de um plano único, não terá novos lucros sobre o mesmo produto com o passar do tempo.  
