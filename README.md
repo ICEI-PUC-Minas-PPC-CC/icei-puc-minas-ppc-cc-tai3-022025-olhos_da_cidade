@@ -23,21 +23,26 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 <img src="/docs/lean_canvas.png" width="500">
-- Missão:  Acelerar o reconhecimento de problemas da cidade para a prefeitura
-- Visão:  Investimento da prefeitura e resolução de problemáticas dos moradores
-- Valores:  Sustentabilidade, inovação e foco em resultados
 
-### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
+- **Missão:**  Acelerar o reconhecimento de problemas da cidade para a prefeitura
+- **Visão:**  Investimento da prefeitura e resolução de problemáticas dos moradores
+- **Valores:**  Sustentabilidade, inovação e foco em resultados
 
-- [Custos e Despesas](./docs/custos_estudo.md)
-<img width="857" height="283" alt="image" src="https://github.com/user-attachments/assets/37640a07-c299-47d5-9788-482dbc3df347" />
+### 3️⃣ Custos e Tributos
+
+[Custos e Despesas](./docs/custos_estudo.md)
+- **Custos fixos:** Servidores iniciais da aplicação – R$30/mês (serviço necessário ao funcionamento).
+- **Custos variáveis:** Cerca de R$160 por unidade (câmera, impressão 3D, Wi-Fi, GPS e placa de circuito).
+- **Tributos aplicáveis:** Não especificados no momento.
+<img width="874" height="329" alt="image" src="https://github.com/user-attachments/assets/9c36dc2b-e0d4-462d-8f73-f99500044471" />
 
 ### 4️⃣ Investimentos e Precificação
 
 [Plano de Negócio](./docs/plano_de_negocio.md)
-- Investimento inicial: Desenvolvimento do protótipo, cerca de R$480 (Raspberry Pi, câmera, GPS, Wi-Fi e modelo 3D para suporte). Patente e taxas pré-operacionais estimadas em R$436.
-- Estratégia de precificação: Baseada no custo de produção e operação do equipamento.
-- Justificativa: Sistema agrega valor ao automatizar a detecção de problemas urbanos, reduzindo custos com vistoria manual e acelerando decisões. Preço reflete economia operacional e eficiência administrativa para a prefeitura.
+- **Investimento inicial:** Desenvolvimento do protótipo, cerca de R$480 (Raspberry Pi, câmera, GPS, Wi-Fi e modelo 3D para suporte). Patente e taxas pré-operacionais estimadas em R$436.
+- **Estratégia de precificação:** Baseada no custo de produção e operação do equipamento.
+- **Justificativa:** Sistema agrega valor ao automatizar a detecção de problemas urbanos, reduzindo custos com vistoria manual e acelerando decisões. Preço reflete economia operacional e eficiência administrativa para a prefeitura.
+<img width="885" height="369" alt="image" src="https://github.com/user-attachments/assets/18c3a255-a718-4242-8fa2-8da3a7d1f5a3" />
 
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças: Uso do YOLO para identificação automática de problemas urbanas; redução de custos de fiscalização
