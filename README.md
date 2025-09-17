@@ -1,5 +1,4 @@
 # 📌 Olhos da Cidade
-
 As cidades sofrem com problemas de infraestrutura, segurança e higiene urbana, como: buracos no asfalto, calçadas danificadas, iluminação precária, terrenos baldios, trânsito desordenado e falta de fiscalização em obras. A resposta do poder público costuma ser lenta pela falta de dados atualizados.
 Uma possível solução seria um aplicativo móvel para registrar, mapear e enviar informações urbanas em tempo real. Técnicos em campo coletam dados (com GPS e fotos), que são enviados a uma central de monitoramento, gerando relatórios, mapas e estatísticas para cada setor responsável.
 
@@ -29,14 +28,16 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 - Valores:  Sustentabilidade, inovação e foco em resultados
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
-- [Link PNBOX](https://pnbox.sebrae.com.br/planoNegocio/invite/OO1DzP_-4)
+
 - [Custos e Despesas](./docs/custos_estudo.md)
 <img width="857" height="283" alt="image" src="https://github.com/user-attachments/assets/37640a07-c299-47d5-9788-482dbc3df347" />
 
 ### 4️⃣ Investimentos e Precificação
-- Investimento inicial: Desenvolvimento do protótipo, cerca de R$480 (Raspberry + camera + GPS + Wifi + modelo 3D para suporte).
-- Estratégia de precificação: Precificação baseada no custo de produção e mão de obra do equipamento
-- Justificativa: O sistema agrega valor por automatizar a detecção de problemas urbanos (via YOLO), reduzindo custos de vistoria manual, acelerando decisões. A precificação deve refletir o retorno em economia operacial e efiência administrativa para a cidade
+
+[Plano de Negócio](./docs/plano_de_negocio.md)
+- Investimento inicial: Desenvolvimento do protótipo, cerca de R$480 (Raspberry Pi, câmera, GPS, Wi-Fi e modelo 3D para suporte). Patente e taxas pré-operacionais estimadas em R$436.
+- Estratégia de precificação: Baseada no custo de produção e operação do equipamento.
+- Justificativa: Sistema agrega valor ao automatizar a detecção de problemas urbanos, reduzindo custos com vistoria manual e acelerando decisões. Preço reflete economia operacional e eficiência administrativa para a prefeitura.
 
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças: Uso do YOLO para identificação automática de problemas urbanas; redução de custos de fiscalização
@@ -115,3 +116,4 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 ```
 
 ---
+[Link PNBOX](https://pnbox.sebrae.com.br/planoNegocio/invite/OO1DzP_-4)
