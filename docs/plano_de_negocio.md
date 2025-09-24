@@ -52,4 +52,28 @@ Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
 **Métricas:**  
 - **CAC (Custo de Aquisição de Cliente):** não tem, não é necessário atrair via marketing.  
 - **ARPU (Receita Média por Usuário):** considerando cada produto como um usuário, entre R$1000,00 e R$1500,00.
-- **LTV (Lifetime Value):** como se trata de um plano único, não terá novos lucros sobre o mesmo produto com o passar do tempo.  
+- **LTV (Lifetime Value):** como se trata de um plano único, não terá novos lucros sobre o mesmo produto com o passar do tempo.
+
+---
+# 💼 Enquadramento Empresarial
+
+**Natureza Jurídica:** Sociedade Limitada (LTDA).  
+
+**Regime Tributário:** Simples Nacional, pois unifica tributos em guia única (DAS), reduz burocracia e custos iniciais, adequado para faturamento reduzido e início de operação.  
+
+**Tributação Incidente:**  
+- IRPJ  
+- CSLL  
+- PIS  
+- COFINS  
+- ISS (sobre serviços)  
+- ICMS (em caso de circulação de mercadorias)  
+- INSS Patronal  
+
+**Obrigações Acessórias:**  
+- Emissão de Notas Fiscais eletrônicas (NF-e/NFS-e)  
+- Declarações obrigatórias: DEFIS, GFIP, eSocial (quando aplicável)  
+- Escrituração contábil simplificada  
+- Cadastro municipal para recolhimento de ISS  
+- Acompanhamento e pagamento de anuidades da patente no INPI  
+
