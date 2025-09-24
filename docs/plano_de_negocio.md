@@ -51,7 +51,7 @@ Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
 
 **Métricas:**  
 - **CAC (Custo de Aquisição de Cliente):** não tem, não é necessário atrair via marketing.  
-- **ARPU (Receita Média por Usuário):** considerando cada produto como um usuário, entre R$1000,00 e R$1500,00.
+- **ARPU (Receita Média por Usuário):** considerando cada produto como um usuário, entre **R$1000,00** e **R$1500,00**.
 - **LTV (Lifetime Value):** como se trata de um plano único, não terá novos lucros sobre o mesmo produto com o passar do tempo.
 
 ---
@@ -62,13 +62,10 @@ Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
 **Regime Tributário:** Simples Nacional, pois unifica tributos em guia única (DAS), reduz burocracia e custos iniciais, adequado para faturamento reduzido e início de operação.  
 
 **Tributação Incidente:**  
-- IRPJ  
-- CSLL  
-- PIS  
-- COFINS  
-- ISS (sobre serviços)  
-- ICMS (em caso de circulação de mercadorias)  
-- INSS Patronal  
+- **IRPJ, CSLL, PIS, COFINS, ISS e INSS Patronal** unificados no DAS, com alíquota inicial estimada de **6% sobre a receita bruta**.  
+  - Exemplo: venda de R$ 1.000,00 → imposto total aproximado: **R$ 60,00**.  
+- **ISS:** 2% a 5% sobre serviços, conforme município.  
+- **ICMS:** em caso de circulação de mercadorias físicas.
 
 **Obrigações Acessórias:**  
 - Emissão de Notas Fiscais eletrônicas (NF-e/NFS-e)  
