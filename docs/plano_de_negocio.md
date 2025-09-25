@@ -61,11 +61,15 @@ Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
 
 **Regime Tributário:** Simples Nacional, pois unifica tributos em guia única (DAS), reduz burocracia e custos iniciais, adequado para faturamento reduzido e início de operação.  
 
+
+
 **Tributação Incidente:**  
 - **IRPJ, CSLL, PIS, COFINS, ISS e INSS Patronal** unificados no DAS, com alíquota inicial estimada de **6% sobre a receita bruta**.  
   - Exemplo: venda de R$ 1.000,00 → imposto total aproximado: **R$ 60,00**.  
-- **ISS:** 2% a 5% sobre serviços, conforme município.  
-- **ICMS:** em caso de circulação de mercadorias físicas.
+- **ISS:** 5% sobre serviços, em Poços de Caldas.
+- **ICMS:** 18% por unidade vendida, em Minas Gerais.
+###### Fonte ISS: https://leismunicipais.com.br/a/mg/p/pocos-de-caldas/lei-complementar/2017/20/192/lei-complementar-n-192-2017-altera-dispositivos-da-lei-complementar-n-91-de-23-de-dezembro-de-2007-que-altera-acrescenta-dispositivos-e-consolida-o-codigo-tributario-do-municipio-de-pocos-de-caldas
+###### Fonte ICMS: https://www.taxgroup.com.br/intelligence/icms-mg-tabela-atualizada/#:~:text=Quanto%20%C3%A9%20o%20ICMS%20em,de%20acordo%20com%20sua%20origem.
 
 **Obrigações Acessórias:**  
 - Emissão de Notas Fiscais eletrônicas (NF-e/NFS-e)  
