@@ -14,7 +14,7 @@ Para o "Olhos da Cidade", os pontos identificados são:
 |  | - Crescente demanda por cidades inteligentes (mercado global de US$ 767,75 bilhões em 2024 para US$ 4.647,63 bilhões em 2032, CAGR de 25,2%) [2, 3] | - Resistência de gestores públicos à adoção de novas tecnologias |
 | | - Parcerias com prefeituras e órgãos de segurança (ex: CIVITAS no Rio de Janeiro) | - Concorrência de soluções mais simples ou estabelecidas (ex: Urban.AI) |
 | | - Expansão para novas áreas de análise (mobilidade urbana, segurança pública, fiscalização de obras) | - Risco de falhas técnicas e cibersegurança |
-| | - Integração com Sistemas de Denúncia Cidadã | - Mudanças Legais e Tributárias |
+| | - Integração com sistemas de denúncia cidadã | - Mudanças Legais e Tributárias |
 | | - Avanços em IA e geolocalização (ex: Urban.AI) | - Preocupações com privacidade e ética da IA |
 
 ## Referências
