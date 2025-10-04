@@ -4,18 +4,18 @@ Para o "Olhos da Cidade", os pontos identificados são:
 
 | Fatores Internos | Forças | Fraquezas |
 |---|---|---|
-|  | - Uso de Inteligência Artificial (YOLO) para Identificação Automática | - Dependência de Infraestrutura Tecnológica (internet, servidores, câmeras de qualidade) |
-| | - Redução de Custos de Fiscalização | - Custo Inicial Elevado do Protótipo e Equipamentos |
-| | - Geração de Dados Atualizados em Tempo Real | - Necessidade de Manutenção e Calibração Contínua |
-| | - Potencial de Escalabilidade e Integração | - Vulnerabilidades em Dispositivos IoT e Vazamento de Dados |
+|  | - Uso de inteligência artificial (YOLO) para identificação automática | - Dependência de infraestrutura tecnológica (internet, servidores, câmeras de qualidade) |
+| | - Redução de custos de fiscalização | - Custo inicial elevado do protótipo e equipamentos |
+| | - Geração de dados atualizados em tempo real | - Necessidade de manutenção e calibração contínua |
+| | - Potencial de escalabilidade e integração | - Vulnerabilidades em dispositivos IoT e vazamento de dados |
 
 | Fatores Externos | Oportunidades | Ameaças |
 |---|---|---|
-|  | - Crescente Demanda por Cidades Inteligentes (mercado global de US$ 767,75 bilhões em 2024 para US$ 4.647,63 bilhões em 2032, CAGR de 25,2%) [2, 3] | - Resistência de Gestores Públicos à Adoção de Novas Tecnologias |
-| | - Parcerias com Prefeituras e Órgãos de Segurança (ex: CIVITAS no Rio de Janeiro) | - Concorrência de Soluções Mais Simples ou Estabelecidas (ex: Urban.AI) |
-| | - Expansão para Novas Áreas de Análise (mobilidade urbana, segurança pública, fiscalização de obras) | - Risco de Falhas Técnicas e Cibersegurança |
+|  | - Crescente demanda por cidades inteligentes (mercado global de US$ 767,75 bilhões em 2024 para US$ 4.647,63 bilhões em 2032, CAGR de 25,2%) [2, 3] | - Resistência de gestores públicos à adoção de novas tecnologias |
+| | - Parcerias com prefeituras e órgãos de segurança (ex: CIVITAS no Rio de Janeiro) | - Concorrência de soluções mais simples ou estabelecidas (ex: Urban.AI) |
+| | - Expansão para novas áreas de análise (mobilidade urbana, segurança pública, fiscalização de obras) | - Risco de falhas técnicas e cibersegurança |
 | | - Integração com Sistemas de Denúncia Cidadã | - Mudanças Legais e Tributárias |
-| | - Avanços em IA e Geolocalização (ex: Urban.AI) | - Preocupações com Privacidade e Ética da IA |
+| | - Avanços em IA e geolocalização (ex: Urban.AI) | - Preocupações com privacidade e ética da IA |
 
 ## Referências
 
