@@ -57,7 +57,6 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 - Ações planejadas: Desenvolver e validar o aplicativo; implementar em caminhões da coleta de lixo em um bairro/cidade média para ajustes; estabelecer parcerias com prefeituras e órgãos públicos; investir em melhorias contínuas do modelo YOLO para diferentes condições ambientais.
 
 ### 7️⃣ Fluxo de Caixa
-[Fluxo de Caixa](./docs/fluxo_de_caixa.xlsx)
 - Planilha ou print do fluxo projetado:  
 - Principais considerações:  
 
