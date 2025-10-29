@@ -80,6 +80,7 @@ Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
 
 ---
 ## 📈 Análise do Fluxo de Caixa (Jan–Abr/2025)
+[Fluxo de Caixa](./docs/fluxo_de_caixa.xlsx)
 
 Considerando o modelo de negócio do *Olhos da Cidade*, com o produto “Mapeador” vendido a **R$1.000**, custos variáveis de **R$160** por unidade e regime tributário do **Simples Nacional (alíquota efetiva de 6%)**, o fluxo de caixa projetado demonstra **viabilidade financeira imediata** após o investimento inicial de **R$916,00**.
 
