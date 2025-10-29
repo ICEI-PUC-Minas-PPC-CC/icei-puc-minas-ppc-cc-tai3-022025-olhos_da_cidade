@@ -78,3 +78,23 @@ Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
 - Cadastro municipal para recolhimento de ISS  
 - Acompanhamento e pagamento de anuidades da patente no INPI  
 
+---
+## 📈 Análise do Fluxo de Caixa (Jan–Abr/2025)
+
+Considerando o modelo de negócio do *Olhos da Cidade*, com o produto “Mapeador” vendido a **R$1.000**, custos variáveis de **R$160** por unidade e regime tributário do **Simples Nacional (alíquota efetiva de 6%)**, o fluxo de caixa projetado demonstra **viabilidade financeira imediata** após o investimento inicial de **R$916,00**.
+
+| Mês | Entradas (R$) | Saídas (R$) | Saldo do Mês (R$) | Saldo Acumulado (R$) |
+|------|----------------|--------------|-------------------|----------------------|
+| Janeiro | 3.000 | 2.198 | **802** | **802** |
+| Fevereiro | 4.000 | 1.790 | **2.210** | **3.012** |
+| Março | 5.000 | 2.220 | **2.780** | **5.792** |
+| Abril | 6.000 | 2.670 | **3.330** | **9.122** |
+
+### Interpretação
+O investimento inicial em janeiro reduz o saldo, mas o produto demonstra excelente margem de contribuição (~R$780/unid.) e baixíssimo ponto de equilíbrio (menos de 1 unidade/mês).  
+A operação mantém caixa positivo em todos os meses, encerrando abril com saldo acumulado de **R$9.122**.
+
+### Conclusão
+O negócio é financeiramente viável em escala reduzida, especialmente considerando o público-alvo institucional e ausência de concorrência.  
+Recomenda-se manter o **regime do Simples Nacional**, registrar a marca e realizar o depósito de patente conforme as taxas oficiais do INPI.  
+O projeto demonstra sustentabilidade de caixa e potencial de expansão progressiva conforme contratos municipais forem firmados.
