@@ -86,16 +86,16 @@ Considerando o modelo de negócio do *Olhos da Cidade*, com o produto “Mapeado
 
 | Mês | Entradas (R$) | Saídas (R$) | Saldo do Mês (R$) | Saldo Acumulado (R$) |
 |------|----------------|--------------|-------------------|----------------------|
-| Janeiro | 3.000 | 2.198 | **802** | **802** |
-| Fevereiro | 4.000 | 1.790 | **2.210** | **3.012** |
-| Março | 5.000 | 2.220 | **2.780** | **5.792** |
-| Abril | 6.000 | 2.670 | **3.330** | **9.122** |
+| Janeiro | R$ 3.916 | R$ 750 | **R$ 3.166** | **R$ 3.166** |
+| Fevereiro | R$ 4.000 | R$ 1.150 | **R$ 2.850** | **R$ 6.016** |
+| Março | R$ 5.000 | R$ 1.550 | **R$ 3.450** | **R$ 9.466** |
+| Abril | R$ 6.000 | R$ 1.950 | **R$ 4.050** | **R$ 13.516** |
 
 ### Interpretação
-O investimento inicial em janeiro reduz o saldo, mas o produto demonstra excelente margem de contribuição (~R$780/unid.) e baixíssimo ponto de equilíbrio (menos de 1 unidade/mês).  
-A operação mantém caixa positivo em todos os meses, encerrando abril com saldo acumulado de **R$9.122**.
+O investimento inicial em janeiro reduz o saldo, mas o produto demonstra excelente margem de contribuição (~R$750/unid.) e baixíssimo ponto de equilíbrio (menos de 1 unidade/mês).  
+A operação mantém caixa positivo em todos os meses, encerrando abril com saldo acumulado de **R$13.516**.
 
 ### Conclusão
 O negócio é financeiramente viável em escala reduzida, especialmente considerando o público-alvo institucional e ausência de concorrência.  
-Recomenda-se manter o **regime do Simples Nacional**, registrar a marca e realizar o depósito de patente conforme as taxas oficiais do INPI.  
+Recomenda-se manter o regime do **Simples Nacional**, registrar a marca e realizar o depósito de patente conforme as taxas oficiais do INPI.  
 O projeto demonstra sustentabilidade de caixa e potencial de expansão progressiva conforme contratos municipais forem firmados.
