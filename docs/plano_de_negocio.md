@@ -41,11 +41,11 @@ Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
 
 **Capacidade de Pagamento:** ter a prefeitura como público-alvo torna difícil estimar a capacidade de pagamento.  
 
-**Concorrência:** não tem concorrência.
+**Concorrência:** Urban.AI.
 
-**Modelo de Precificação:** plano único.  
+**Modelo de Precificação:** Plano único, com cobrança mensal proporcional ao número de unidades monitoradas. 
 
-**Periodicidade:** não tem, inclusa no preço do produto. 
+**Periodicidade:** R$50,00 mensal, por unidade do produto.
 
 **Métricas:**  
 - **CAC (Custo de Aquisição de Cliente):** não tem, não é necessário atrair via marketing.  
@@ -105,7 +105,7 @@ As **ameaças** abrangem a resistência de gestores públicos à adoção de nov
 ## 📈 Fluxo de Caixa
 
 
-Considerando o modelo de negócio do *Olhos da Cidade*, com o produto “Mapeador” vendido a **R$1.000**, mensalidade por produto de **R$50,00** custos variáveis de **R$160** por unidade e regime tributário do **Simples Nacional (alíquota efetiva de 6%)**, o fluxo de caixa projetado demonstra **viabilidade financeira imediata** após o investimento inicial de **R$916,00**.
+Considerando o modelo de negócio do *Olhos da Cidade*, com o produto “Mapeador” vendido a **R$1.000**, mensalidade por produto de **R$50,00**, custos variáveis de **R$160** por unidade e regime tributário do **Simples Nacional (alíquota efetiva de 6%)**, o fluxo de caixa projetado demonstra **viabilidade financeira imediata** após o investimento inicial de **R$916,00**.
 
 | Mês       | Entradas (R$) | Saídas (R$) | Saldo do Mês (R$) | Saldo Acumulado (R$) |
 |-----------|----------------|-------------|-------------------|----------------------|
