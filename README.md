@@ -111,13 +111,13 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 📦 projeto/
  ┣ 📂 docs/
  ┃ ┣ lean_canvas.png
- ┃ ┣ custos_tributos.xlsx
- ┃ ┣ swot_plano_negocios.pdf
- ┃ ┣ fluxo_caixa_planejamento.xlsx
+ ┃ ┣ custos_estudo.md
+ ┃ ┣ plano_de_negocios.md
+ ┃ ┣ analise_ambiente.md
+ ┃ ┗ planejamento_estrategico.xlsx
+ ┃ ┗ fluxo_de_caixa.xlsx
  ┃ ┗ valuation.pdf
- ┣ 📂 src/
- ┃ ┣ prototipo/
- ┃ ┗ documentos_planejamento/
+ ┃ ┗ apresentacao_banca.pptx
  ┣ README.md
 ```
 
