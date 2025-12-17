@@ -96,26 +96,22 @@ As **ameaças** abrangem a resistência de gestores públicos à adoção de nov
 
 ###### Completo em: [analise_ambientes.md](./analise_ambiente.md)
 
----
+<br>
 
-## 📈 Análise do Fluxo de Caixa (Jan–Abr/2025)
-[Fluxo de Caixa](./docs/fluxo_de_caixa.xlsx)
+****
 
-Considerando o modelo de negócio do *Olhos da Cidade*, com o produto “Mapeador” vendido a **R$1.000**, custos variáveis de **R$160** por unidade e regime tributário do **Simples Nacional (alíquota efetiva de 6%)**, o fluxo de caixa projetado demonstra **viabilidade financeira imediata** após o investimento inicial de **R$916,00**.
+<br>
 
-| Mês | Entradas (R$) | Saídas (R$) | Saldo do Mês (R$) | Saldo Acumulado (R$) |
-|------|----------------|--------------|-------------------|----------------------|
-| Janeiro | R$ 3.916 | R$ 750 | **R$ 3.166** | **R$ 3.166** |
-| Fevereiro | R$ 4.000 | R$ 1.150 | **R$ 2.850** | **R$ 6.016** |
-| Março | R$ 5.000 | R$ 1.550 | **R$ 3.450** | **R$ 9.466** |
-| Abril | R$ 6.000 | R$ 1.950 | **R$ 4.050** | **R$ 13.516** |
+## 📈 Fluxo de Caixa
 
-### Interpretação
-O investimento inicial em janeiro reduz o saldo, mas o produto demonstra excelente margem de contribuição (~R$750/unid.) e baixíssimo ponto de equilíbrio (menos de 1 unidade/mês).  
-A operação mantém caixa positivo em todos os meses, encerrando abril com saldo acumulado de **R$13.516**.
 
-### Conclusão
-O negócio é financeiramente viável em escala reduzida, especialmente considerando o público-alvo institucional e ausência de concorrência.  
-Recomenda-se manter o regime do **Simples Nacional**, registrar a marca e realizar o depósito de patente conforme as taxas oficiais do INPI.  
-O projeto demonstra sustentabilidade de caixa e potencial de expansão progressiva conforme contratos municipais forem firmados.
+Considerando o modelo de negócio do *Olhos da Cidade*, com o produto “Mapeador” vendido a **R$1.000**, mensalidade por produto de **R$50,00** custos variáveis de **R$160** por unidade e regime tributário do **Simples Nacional (alíquota efetiva de 6%)**, o fluxo de caixa projetado demonstra **viabilidade financeira imediata** após o investimento inicial de **R$916,00**.
 
+| Mês       | Entradas (R$) | Saídas (R$) | Saldo do Mês (R$) | Saldo Acumulado (R$) |
+|-----------|----------------|-------------|-------------------|----------------------|
+| Janeiro   | R$ 4.066       | R$ 750      | R$ 3.316          | R$ 3.316             |
+| Fevereiro | R$ 4.350       | R$ 1.150    | R$ 3.200          | R$ 6.516             |
+| Março     | R$ 5.600       | R$ 1.550    | R$ 4.050          | R$ 10.566            |
+| Abril     | R$ 6.900       | R$ 1.950    | R$ 4.950          | R$ 15.516            |
+
+###### Completo em: [fluxo_de_caixa.xlsx](./docs/fluxo_de_caixa.xlsx)
