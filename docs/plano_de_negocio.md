@@ -1,24 +1,26 @@
-# 📊 Investimentos
+## 📊 Investimentos
 
-## Investimento Fixo  
-
+### Investimento Fixo  
 Não previsto no momento.
+<br> <br>
 
----
+### Investimento Pré-operacional
+* **Patente**
+  
+| Serviço                                       | Estimativa (R$) | Observação                               |
+|----------------------------------------------|----------------:|------------------------------------------|
+| Depósito do pedido                            | R$ 70,00        | Taxa inicial obrigatória.                 |
+| Requerimento de exame (até 10 reivindicações) | R$ 236,00       | Etapa obrigatória.                        |
+| Cumprimento de exigência (ex.: 1)             | R$ 36,00        | Se houver exigência técnica.              |
+| Expedição da carta-patente                    | R$ 94,00        | Pago somente se a patente for concedida.  |
 
-## Investimento Pré-operacional  
-
-### Patente
-###### Fonte: https://www.gov.br/inpi/pt-br/servicos/patentes/guia-basico/Customdiopedidodepatente04112021.xlsx
-| Serviço                                       |Estimativa (R$) | Observação                               |
-| --------------------------------------------- | -----------------------: | ---------------------------------------- |
-| Depósito do pedido                            |R$70,00 | Taxa inicial obrigatória.                |
-| Requerimento de exame (até 10 reivindicações) |R$236,00 | Etapa obrigatória.                       |
-| Cumprimento de exigência (ex.: 1)             |R$36,00 | Se houver exigência técnica.             |
-| Expedição da carta-patente                    |R$94,00 | Pago somente se a patente for concedida. |
+*Fonte: https://www.gov.br/inpi/pt-br/servicos/patentes/guia-basico/Customdiopedidodepatente04112021.xlsx*
 ###### Subtotal (estimado, sem incluir anuidades): R$ 436,00
 
-### Desenvolvimento do Protótipo
+<br>
+
+* **Desenvolvimento do Protótipo**
+  
 | Item                   | Estimativa (R$) | Premissas  |
 |-----------------------|----------------|---------------------------------------|
 | Câmera                | R$60,00       | Parte do equipamento, custo unitário |
@@ -27,17 +29,13 @@ Não previsto no momento.
 | Módulo GPS            | R$50,00        | Parte do equipamento, custo unitário |
 | Raspberry Pi         | R$250,00        | Custo por unidade |
 ###### Total Protótipo: R$ 480,00
+<br>
 
-
----
-
-## Capital de Giro  
-
+### Capital de Giro  
 Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
+<br><br>
 
----
-
-# 💵 Precificação
+## 💵 Precificação
 
 **Valor Entregue:** sistema agrega valor ao automatizar a detecção de problemas urbanos, reduzindo custos com vistoria manual e acelerando decisões. Preço reflete economia operacional e eficiência administrativa para a prefeitura.
 
@@ -53,9 +51,10 @@ Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
 - **CAC (Custo de Aquisição de Cliente):** não tem, não é necessário atrair via marketing.  
 - **ARPU (Receita Média por Usuário):** considerando cada produto como um usuário, entre **R$1000,00** e **R$1500,00**.
 - **LTV (Lifetime Value):** como se trata de um plano único, não terá novos lucros sobre o mesmo produto com o passar do tempo.
+<br><br>
 
----
-# 💼 Enquadramento Empresarial
+
+## 💼 Enquadramento Empresarial
 
 **Natureza Jurídica:** Sociedade Limitada (LTDA).  
 
@@ -78,7 +77,27 @@ Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
 - Cadastro municipal para recolhimento de ISS  
 - Acompanhamento e pagamento de anuidades da patente no INPI  
 
+<br>
+
+***
+
+<br>
+
+## 🧭 Análise de Ambientes
+
+
+As **forças** concentram-se no uso de inteligência artificial para identificação automática, na redução de custos de fiscalização, na geração de dados em tempo real e no potencial de escalabilidade e integração com outros sistemas.
+
+As **fraquezas** incluem a dependência de infraestrutura tecnológica adequada, o alto custo inicial de implantação, a necessidade de manutenção e calibração contínuas e as vulnerabilidades associadas a dispositivos IoT e à segurança dos dados.
+
+As **oportunidades** decorrem do crescimento acelerado do mercado de cidades inteligentes, da possibilidade de parcerias com prefeituras e órgãos de segurança, da expansão para novas áreas de análise urbana e da integração com sistemas de denúncia cidadã, apoiadas pelos avanços em IA e geolocalização.
+
+As **ameaças** abrangem a resistência de gestores públicos à adoção de novas tecnologias, a concorrência de soluções já estabelecidas, os riscos técnicos e de cibersegurança, mudanças legais e tributárias, além das preocupações com privacidade e ética no uso da inteligência artificial.
+
+###### Completo em: [analise_ambientes.md](./analise_ambiente.md)
+
 ---
+
 ## 📈 Análise do Fluxo de Caixa (Jan–Abr/2025)
 [Fluxo de Caixa](./docs/fluxo_de_caixa.xlsx)
 
@@ -99,3 +118,4 @@ A operação mantém caixa positivo em todos os meses, encerrando abril com sald
 O negócio é financeiramente viável em escala reduzida, especialmente considerando o público-alvo institucional e ausência de concorrência.  
 Recomenda-se manter o regime do **Simples Nacional**, registrar a marca e realizar o depósito de patente conforme as taxas oficiais do INPI.  
 O projeto demonstra sustentabilidade de caixa e potencial de expansão progressiva conforme contratos municipais forem firmados.
+
