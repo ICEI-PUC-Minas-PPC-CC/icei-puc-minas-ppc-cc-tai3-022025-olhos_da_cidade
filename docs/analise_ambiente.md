@@ -20,6 +20,10 @@ Para o "Olhos da Cidade", os pontos identificados são:
 ## Referências
 
 [1] Fortune Business Insights. (2024). *Tamanho do mercado, participação e crescimento do mercado de cidades inteligentes [2032]*. Disponível em: [https://www.fortunebusinessinsights.com/pt/industry-reports/smart-cities-market-100610]
+
 [2] Brazil Economy. (2025). *Setor de smart cities movimenta R$ 1 bilhão em 2025 e projeta expansão no Brasil*. Disponível em: [https://brazileconomy.com.br/2025/08/setor-de-cidades-inteligentes-movimenta-r-1-bilhao-em-2025-e-projeta-expansao-no-brasil/]
+
 [3] CNN Brasil. (2025). *Rio terá 20 mil câmeras com IA para monitoramento urbano*. Disponível em: [https://www.cnnbrasil.com.br/nacional/sudeste/rj/rio-tera-20-mil-cameras-com-ia-para-monitoramento-urbano/]
+
 [4] Urban.AI. (n.d.). *Home*. Disponível em: [https://urbanai.sigcorp.com.br/]
+
