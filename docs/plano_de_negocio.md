@@ -114,4 +114,4 @@ Considerando o modelo de negócio do *Olhos da Cidade*, com o produto “Mapeado
 | Março     | R$ 5.600       | R$ 1.550    | R$ 4.050          | R$ 10.566            |
 | Abril     | R$ 6.900       | R$ 1.950    | R$ 4.950          | R$ 15.516            |
 
-###### Completo em: [fluxo_de_caixa.xlsx](./docs/fluxo_de_caixa.xlsx)
+###### Completo em: [fluxo_de_caixa.xlsx](./fluxo_de_caixa.xlsx)
