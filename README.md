@@ -19,7 +19,7 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 - **Problema identificado:** Falta de fiscalização de demandas dos bairros da cidade (condições do asfalto, buracos nas ruas, terrenos baldios, iluminação, arborização e jardins, etc...)
 - **Público-alvo:** Moradores da cidade 
 - **Impacto esperado:** Aproximar mais a prefeitura dos problemas dos cidadãos
-- **Solução proposta:** Uma câmera utilizando um programa(YOLO) para identificar e reconhecer problemas nos bairros
+- **Solução proposta:** Uma câmera utilizando um programa (YOLO) para identificar e reconhecer problemas nos bairros
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 <img src="/docs/lean_canvas.png" width="500">
@@ -45,10 +45,11 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 <img width="885" height="369" alt="image" src="https://github.com/user-attachments/assets/18c3a255-a718-4242-8fa2-8da3a7d1f5a3" />
 
 ### 5️⃣ SWOT (Análise de Ambientes)
-- Forças: Uso do YOLO para identificação automática de problemas urbanas; redução de custos de fiscalização
-- Fraquezas: Dependência de infraestrutura tecnológica (internet, servidores, câmeras de qualidade)
-- Oportunidades: Crescente demanda por cidades inteligentes; parceiria com a prefeitura da cidade e órgãos de segurança; expansão para análise de mobilidade urbana, segurança e obras públicas; possibilidade de integrar com sistemas de denúncia cidadã e participação popular 
-- Ameaças: Resistência de gestores públicos à adoçao de novas tecnologias; risco de falhas técnicas; concorrência de soluções mais simples (aplicativo de denúncia manual; mudanças legais/tributárias que afetem a prestação de serviços tecnológicos ao setor público
+[Análise de Ambiente](./docs/analise_ambiente.md)
+- Forças: Uso de YOLO para identificação automática de problemas urbanos; redução de custos de fiscalização; geração de dados em tempo real; potencial de escalabilidade e integração.
+- Fraquezas: Dependência de infraestrutura tecnológica (internet, servidores, câmeras de qualidade); custo inicial elevado de protótipo e equipamentos; necessidade de manutenção contínua; vulnerabilidades em dispositivos IoT e proteção de dados.
+- Oportunidades: Crescente demanda por cidades inteligentes; parcerias com prefeituras e órgãos de segurança; expansão para análise de mobilidade urbana, segurança e fiscalização de obras; integração com sistemas de denúncia cidadã; avanços em IA e geolocalização.
+- Ameaças: Resistência de gestores públicos à adoção de novas tecnologias; risco de falhas técnicas e cibersegurança; concorrência de soluções mais simples; mudanças legais e tributárias; preocupações com privacidade e ética da IA.
 
 ### 6️⃣ Planejamento Estratégico (BSC)
 [Planejamento Estratégico](./docs/planejamento_estrategico.xlsx)
@@ -57,12 +58,11 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 - Ações planejadas: Desenvolver e validar o aplicativo; implementar em caminhões da coleta de lixo em um bairro/cidade média para ajustes; estabelecer parcerias com prefeituras e órgãos públicos; investir em melhorias contínuas do modelo YOLO para diferentes condições ambientais.
 
 ### 7️⃣ Fluxo de Caixa
-- Planilha ou print do fluxo projetado:  
-- Principais considerações:  
+<img width="1555" height="91" alt="image" src="https://github.com/user-attachments/assets/f952e2b8-facb-49c7-8854-03f6926420a5" />
 
 ### 8️⃣ Valuation
-- Método utilizado: Smart Cities que oferecem soluções de monitoramento urbano, visão computacional e gestão pública. 
-- Valor estimado: de R$1,500 à R$2,000
+- Método utilizado: Fluxo de Caixa Descontado (FCD), com cálculo de valor terminal pelo modelo de Gordon, complementado por análise por múltiplos (Receita e EBITDA).
+- Valor estimado: aproximadamente R$ 638.363.
 
 ### 9️⃣ Segurança Cibernética
 - Riscos identificados: Vulnerabilidades em dispositivos IoT; vazamento de dados sensíveis (imagens, localização, relatórios de segurança pública); 
@@ -85,10 +85,10 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 |----------------------------------------|------------|-------------------------------------------------------------------|--------|
 | Lean Canvas                            | 20/08/2025 | Documento e imagem do canvas                                      |✅|
 | Custos e Tributos                      | 27/08/2025 | Planilha com custos fixos, variáveis e tributos                   |✅|
-| Análise SWOT / Plano de Negócios       | 24/09/2025 | Análise de ambientes SWOT e entrega do Plano de Negócios          | —      |
-| Fluxo de Caixa / Planejamento Estratégico | 15/10/2025 | Planilha de fluxo de caixa e entrega do Planejamento Estratégico  | —      |
-| Valuation                              | 05/11/2025 | Relatório com cálculo de valuation                                | —      |
-| Valuation      | 12/11/2025 | Valuation | —      |
+| Análise SWOT / Plano de Negócios       | 24/09/2025 | Análise de ambientes SWOT e entrega do Plano de Negócios          |✅|
+| Fluxo de Caixa / Planejamento Estratégico | 15/10/2025 | Planilha de fluxo de caixa e entrega do Planejamento Estratégico |✅|
+| Valuation                              | 05/11/2025 | Relatório com cálculo de valuation                                |Atrasado|
+| Valuation      | 12/11/2025 | Valuation |Atrasado|
 
 ---
 
@@ -96,7 +96,10 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 
 | Data       | De Quem     | Feedback                                                        | Ação Tomada |
 |------------|-------------|----------------------------------------------------------------|-------------|
-| 24/09/2025 | Professor X | Melhorar clareza da análise SWOT                                | Revisão feita |
+| 08/10/2025 | Diego Roberto Gonçalves de Pontes | Faltam detalhamento de custos e explicação clara da formação do preço | Resolvido nas próximas etapas |
+| 08/10/2025 | Diego Roberto Gonçalves de Pontes | Sugere-se ajustar capital de giro, precificação e métricas para maior sustentabilidade financeira | Adição da assinatura mensal |
+| 08/10/2025 | Diego Roberto Gonçalves de Pontes  | Corrigir a tributação (ICMS não aplicável), esclarecer NFS-e e detalhar melhor obrigações acessórias. |
+
 
 ---
 
@@ -122,6 +125,9 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 ```
 
 ---
+
+## Apresentação Banca
+
 ## PNBOX
 
 [Link PNBOX](https://pnbox.sebrae.com.br/planoNegocio/invite/OO1DzP_-4)
