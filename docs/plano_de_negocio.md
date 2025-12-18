@@ -71,11 +71,17 @@ Não previsto no momento, sem salário e estoque de matéria-prima ou produtos.
 ###### Fonte ICMS: https://www.taxgroup.com.br/intelligence/icms-mg-tabela-atualizada/#:~:text=Quanto%20%C3%A9%20o%20ICMS%20em,de%20acordo%20com%20sua%20origem.
 
 **Obrigações Acessórias:**  
-- Emissão de Notas Fiscais eletrônicas (NF-e/NFS-e)  
-- Declarações obrigatórias: DEFIS, GFIP, eSocial (quando aplicável)  
-- Escrituração contábil simplificada  
-- Cadastro municipal para recolhimento de ISS  
-- Acompanhamento e pagamento de anuidades da patente no INPI  
+- Para o produto físico (equipamento):
+    - Emissão de **NF-e (Nota Fiscal Eletrônica de Produto)** para venda de mercadorias.
+    - Escrituração fiscal referente ao **ICMS** (quando aplicável).
+    - Controle de estoque e inventário.
+- Para o serviço (monitoramento e manutenção):
+    - Emissão de **NFS-e (Nota Fiscal de Serviço Eletrônica)** para cobrança de serviços prestados.
+    - Cadastro municipal para recolhimento de **ISS**.
+    - Escrituração contábil simplificada.
+- Declarações obrigatórias gerais (Simples Nacional):
+    - **DEFIS** – declaração de tributos federais unificados.
+    - **GFIP** – Guia de Recolhimento do FGTS e informaç
 
 <br>
 
