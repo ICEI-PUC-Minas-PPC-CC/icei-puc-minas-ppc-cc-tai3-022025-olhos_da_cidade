@@ -46,36 +46,56 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 
 ### 5️⃣ SWOT (Análise de Ambientes)
 [Análise de Ambiente](./docs/analise_ambiente.md)
-- Forças: Uso de YOLO para identificação automática de problemas urbanos; redução de custos de fiscalização; geração de dados em tempo real; potencial de escalabilidade e integração.
-- Fraquezas: Dependência de infraestrutura tecnológica (internet, servidores, câmeras de qualidade); custo inicial elevado de protótipo e equipamentos; necessidade de manutenção contínua; vulnerabilidades em dispositivos IoT e proteção de dados.
-- Oportunidades: Crescente demanda por cidades inteligentes; parcerias com prefeituras e órgãos de segurança; expansão para análise de mobilidade urbana, segurança e fiscalização de obras; integração com sistemas de denúncia cidadã; avanços em IA e geolocalização.
-- Ameaças: Resistência de gestores públicos à adoção de novas tecnologias; risco de falhas técnicas e cibersegurança; concorrência de soluções mais simples; mudanças legais e tributárias; preocupações com privacidade e ética da IA.
+- **Forças:** Uso de YOLO para identificação automática de problemas urbanos; redução de custos de fiscalização; geração de dados em tempo real; potencial de escalabilidade e integração.
+- **Fraquezas:** Dependência de infraestrutura tecnológica (internet, servidores, câmeras de qualidade); custo inicial elevado de protótipo e equipamentos; necessidade de manutenção contínua; vulnerabilidades em dispositivos IoT e proteção de dados.
+- **Oportunidades:** Crescente demanda por cidades inteligentes; parcerias com prefeituras e órgãos de segurança; expansão para análise de mobilidade urbana, segurança e fiscalização de obras; integração com sistemas de denúncia cidadã; avanços em IA e geolocalização.
+- **Ameaças:** Resistência de gestores públicos à adoção de novas tecnologias; risco de falhas técnicas e cibersegurança; concorrência de soluções mais simples; mudanças legais e tributárias; preocupações com privacidade e ética da IA.
 
 ### 6️⃣ Planejamento Estratégico (BSC)
 [Planejamento Estratégico](./docs/planejamento_estrategico.xlsx)
-- Objetivos estratégicos: Melhorar a eficiência da fiscalização urbana por meio de IA e geolocalização; reduzir custos e tempo de resposta às demandas da cidade; aumentar a transparência e a integração entre poder público e cidadãos; expandir o sistema para diferentes áreas da gestão urbana (mobilidade, segurança, obras)
-- Indicadores e metas: Porcentagem de problemas urbanos identificados automaticamente; tempo médio de resposta das secretarias responsáveis; número de ocorrências mapeadas por mês; taxa de satisfação dos gestores municipais
-- Ações planejadas: Desenvolver e validar o aplicativo; implementar em caminhões da coleta de lixo em um bairro/cidade média para ajustes; estabelecer parcerias com prefeituras e órgãos públicos; investir em melhorias contínuas do modelo YOLO para diferentes condições ambientais.
+- **Objetivos estratégicos:** Melhorar a eficiência da fiscalização urbana por meio de IA e geolocalização; reduzir custos e tempo de resposta às demandas da cidade; aumentar a transparência e a integração entre poder público e cidadãos; expandir o sistema para diferentes áreas da gestão urbana (mobilidade, segurança, obras)
+- **Indicadores e metas:** Porcentagem de problemas urbanos identificados automaticamente; tempo médio de resposta das secretarias responsáveis; número de ocorrências mapeadas por mês; taxa de satisfação dos gestores municipais
+- **Ações planejadas:** Desenvolver e validar o aplicativo; implementar em caminhões da coleta de lixo em um bairro/cidade média para ajustes; estabelecer parcerias com prefeituras e órgãos públicos; investir em melhorias contínuas do modelo YOLO para diferentes condições ambientais.
 
 ### 7️⃣ Fluxo de Caixa
 <img width="1555" height="91" alt="image" src="https://github.com/user-attachments/assets/f952e2b8-facb-49c7-8854-03f6926420a5" />
 
 ### 8️⃣ Valuation
-- Método utilizado: Fluxo de Caixa Descontado (FCD), com cálculo de valor terminal pelo modelo de Gordon, complementado por análise por múltiplos (Receita e EBITDA).
-- Valor estimado: aproximadamente R$ 638.363.
+- **Método utilizado:** Fluxo de Caixa Descontado (FCD), com cálculo de valor terminal pelo modelo de Gordon, complementado por análise por múltiplos (Receita e EBITDA).
+- **Valor estimado:** aproximadamente R$ 638.363.
 
 ### 9️⃣ Segurança Cibernética
-- Riscos identificados: Vulnerabilidades em dispositivos IoT; vazamento de dados sensíveis (imagens, localização, relatórios de segurança pública); 
-- Medidas de segurança: Armazenamento seguro em nuvem; monitoramento contínuo de rede e detecção de intrusos;
+- **Riscos identificados:** Vulnerabilidades em dispositivos IoT; vazamento de dados sensíveis (imagens, localização, relatórios de segurança pública); 
+- **Medidas de segurança:** Armazenamento seguro em nuvem; monitoramento contínuo de rede e detecção de intrusos;
 
 ---
 
 ## 📅 Diário de Bordo
 
-| Data       | Conteúdo/Etapa                     | Status     | Observações |
-|------------|------------------------------------|------------|-------------|
-| 06/08/2025 | Apresentação Disciplina + Start    | ✅ Concluído | — |
-| 13/08/2025 | Definição dos Grupos e Propostas   | ✅ Concluído | Ajustar proposta com feedback do professor |
+| Data       | Conteúdo                                        | Status        | Observações / Entregáveis |
+|------------|-------------------------------------------------|---------------|---------------------------|
+| 06/08/2025 | Apresentação Disciplina + Start propostas      | ✅   | — |
+| 13/08/2025 | Definição dos Grupos, Propostas e Criação de Times Classroom | ✅  | — |
+| 20/08/2025 | Modelagem do Problema - Lean Canvas / Missão, Visão e Valores | ✅   | — |
+| 27/08/2025 | Entrevista 01 - Acompanhamento das atividades / validação | ✅  | **Entrega:** Lean Canvas - Pontos: 5 |
+| 03/09/2025 | Custos e Tributos (Plano de Negócios - PNBOX) | ✅   | — |
+| 10/09/2025 | Investimentos e Precificação (Plano de Negócios - PNBOX) | ✅   | **Entrega:** Custos e Despesas - Pontos: 5 |
+| 17/09/2025 | Acompanhamento Plano de Negócios             | ✅   | **Entrega:** Investimentos e Precificação - Pontos: 5 |
+| 24/09/2025 | Entrevista 02 - Acompanhamento das atividades / validação | ✅ | **Entrega:** Plano de Negócio (Finalização com Tributos) - Pontos: 5 |
+| 01/10/2025 | Análise de Ambientes - SWOT                   | ✅  | — |
+| 08/10/2025 | BSC e Planilha de Planejamento Estratégico    | ✅  | **Entrega:** Análise de Ambientes - Pontos: 5 |
+| 15/10/2025 | Fluxo de Caixa / Planilha Fluxo de Caixa / Entrega Planejamento Estratégico | ✅  | **Entrega:** Planejamento Estratégico - Pontos: 10 |
+| 22/10/2025 | Seminários (Segurança da Informação)         | ✅  | — |
+| 29/10/2025 | Valuation (atividade)                         | ✅  | **Entrega:** Fluxo de Caixa / Planilha Fluxo - Pontos: 15 |
+| 05/11/2025 | Compliance em TI: Legislação                  | ✅ | **Entrega:** Valuation - Pontos: 10 |
+| 12/11/2025 | Segurança Cibernética no Produto              | ✅  | — |
+| 19/11/2025 | Orientações e preparação para a apresentação à banca | ✅ | — |
+| 26/11/2025 | Apresentação Banca (3 grupos)                | ✅ | **Entrega:** Apresentação Banca - Pontos: 30 |
+| 03/12/2025 | Apresentação Banca (3 grupos)                | ✅ | — |
+| 10/12/2025 | Apresentação Banca (3 grupos)                | ✅   | — |
+| 17/12/2025 | Divulgação Melhor Produto - Concurso         | ⬜  | — |
+| 17/12/2025 | Organização e estruturação do Projeto GitHub (final do semestre) | ✅  | **Entrega:** Projeto GitHub - Pontos: 10 |
+
 
 ---
 
@@ -98,13 +118,21 @@ Uma possível solução seria um aplicativo móvel para registrar, mapear e envi
 |------------|-------------|----------------------------------------------------------------|-------------|
 | 08/10/2025 | Diego Roberto Gonçalves de Pontes | Faltam detalhamento de custos e explicação clara da formação do preço | Resolvido nas próximas etapas |
 | 08/10/2025 | Diego Roberto Gonçalves de Pontes | Sugere-se ajustar capital de giro, precificação e métricas para maior sustentabilidade financeira | Adição da assinatura mensal |
-| 08/10/2025 | Diego Roberto Gonçalves de Pontes  | Corrigir a tributação (ICMS não aplicável), esclarecer NFS-e e detalhar melhor obrigações acessórias. |
+| 08/10/2025 | Diego Roberto Gonçalves de Pontes  | Corrigir a tributação (ICMS não aplicável), esclarecer NFS-e e detalhar melhor obrigações acessórias. | Correção e esclarecimento da tributação |
 
 
 ---
 
 ## 📚 Lições Aprendidas
-- O que a equipe aprendeu durante cada fase.  
+
+- **Lean Canvas:** Aprendemos a importância de definir claramente o problema, público-alvo e solução proposta antes de iniciar qualquer desenvolvimento. Ter o Lean Canvas estruturado ajudou a equipe a alinhar expectativas e planejar etapas futuras de forma mais eficaz.
+- **Levantamento de Custos e Despesas:** Entendemos que detalhar custos fixos e variáveis é essencial para a sustentabilidade do projeto. Esse levantamento permitiu simular diferentes cenários financeiros e avaliar a viabilidade econômica do protótipo.
+- **Investimentos e Precificação:** Aprendemos a relacionar investimento inicial, custos operacionais e precificação estratégica. A fase destacou a importância de justificar o valor do produto de forma clara, considerando economia operacional e eficiência para o cliente.
+- **Plano de Negócio:** Aprendemos a consolidar todas as informações do projeto em um documento estruturado, considerando tributos, obrigações legais e enquadramento empresarial. A integração dessas informações é fundamental para apresentar o projeto de forma completa e profissional.
+- **Análise de Ambientes:** A análise SWOT nos mostrou a importância de mapear forças, fraquezas, oportunidades e ameaças, antecipando riscos técnicos, financeiros e estratégicos. Esse processo fortaleceu o planejamento e a tomada de decisão.
+- **Planejamento Estratégico:** Aprendemos a definir objetivos estratégicos claros, indicadores de desempenho e metas mensuráveis. A fase reforçou a necessidade de organizar ações de curto e longo prazo, priorizando impacto e eficiência operacional.
+- **Fluxo de Caixa / Planilha Fluxo:** Essa etapa mostrou a importância do acompanhamento financeiro detalhado. Aprendemos a projetar entradas e saídas, avaliar liquidez e garantir que o projeto pudesse se manter financeiramente sustentável ao longo do tempo.
+- **Valuation:** Aprendemos a calcular o valor econômico do projeto utilizando diferentes metodologias, incluindo Fluxo de Caixa Descontado e múltiplos de mercado. Essa fase reforçou a visão estratégica sobre retorno do investimento e atratividade do projeto.
 
 ---
 
